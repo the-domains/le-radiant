@@ -1,8 +1,23 @@
+name: Le Radiant
+favicon: null
 layout_spectrum: 0.457936
 typography_spectrum: 0.6146954
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5412186
+  brandColors: []
   brandStrength: 0.4438802
   lightness: 0.8566308
+  saturation: 0.5412186
   rhythmicContrast: 0.4569893
-name: Le Radiant
+purpose: []
